@@ -36,7 +36,7 @@ plugins:
   - jekyll-remote-theme
 ```
 
-``Note: to enable icons you also need to copy over the `_data` folder.
+```Note: to enable icons you also need to copy over the `_data` folder.
 
 ## Config
 
@@ -77,7 +77,7 @@ plugins:
 
 ```
 
-````## MathJax
+```## MathJax
 
 Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
 
