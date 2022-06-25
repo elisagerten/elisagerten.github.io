@@ -1,10 +1,10 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Research"
+permalink: "/research/"
 layout: page
 ---
 
-## Installation
+## AI technology, environmental sustainability, and employee-centric management
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
