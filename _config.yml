@@ -11,7 +11,7 @@ date_format: "%B %d, %Y"
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+minimal: false             # use a dark header
 
 # Menu
 
@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:gerten@wiso.uni-koeln.de"}
   - {title: Github, icon: github, url: "https://github.com/elisagerten"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/GertenElisa"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=xRrQw60AAAAJ&hl=de&oi=ao"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
