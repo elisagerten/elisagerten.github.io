@@ -16,19 +16,4 @@ In this study, I draw on established theories in labor and organizational econom
 
 In recent decades, information and communication technology (ICT) has changed the design of jobs on a large scale. However, it remains unclear, whether these changes will lead to more centralization or more decentralization within firms. The previous literature on this debate has focused on a strict dichotomy between both possible directions. On the contrary, the theoretical and empirical analyses in this study show that equipping employees with ICT yields both more centralized \textit{and} more decentralized job-design policies. This finding is particularly pronounced for executive employees, who are granted more work autonomy but also face more control via stronger monitoring. While the theoretical framework is based on a modified principal-agent model, the empirical approach relies on parametric and semiparametric estimation models, thereby exploiting the geographical variation of instrumental variables.
 
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+- [Faculty of Management, Economics, and Social Sciences, University of Cologne](https://wiso.uni-koeln.de/en/)
