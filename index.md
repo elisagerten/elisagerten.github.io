@@ -13,3 +13,4 @@ Upcoming presentations:
 - [EALE](https://eale.nl/) Padova, ITA, 8-10 September
 - [VfS Annual Conference 2022: Big Data in Economics](https://www.socialpolitik.de/en/jahrestagung-2022-0) Basel, CH, 11-14 September
 - [Industrienacht Regio Basel](https://industrienacht.com/) Basel, CH, 16 September
+
