@@ -9,8 +9,12 @@ I work at the intersection of personnel and organizational economics, with a foc
 
 For my work, I received the [Heinz König Young Scholar Award 2022](https://www.zew.de/en/press/latest-press-releases/zew-honours-young-researcher-from-the-university-of-basel) from ZEW Mannheim and SAP SE and the [Emilie Louise Frey Award 2019](https://wwz.unibas.ch/en/faculty/awards-and-distinctions/emilie-louise-frey-preis/) from the University of Basel.
 
-Upcoming presentations:
+My latest working paper:
 
+- ICT, Hierarchy, and Job Design: [ECONtribute Discussion Paper No. 189/2022](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_189_2022.pdf)
+  (joint work with M. Beckmann and M. Kräkel)
+
+Upcoming presentations:
 
 - [EALE](https://eale.nl/) Padova, ITA, 8-10 September
 - [VfS Annual Conference 2022: Big Data in Economics](https://www.socialpolitik.de/en/jahrestagung-2022-0) Basel, CH, 11-14 September
