@@ -11,7 +11,7 @@ For my work, I received the [Heinz König Young Scholar Award 2022](https://www.
 
 My latest working paper:
 
-- ICT, Hierarchy, and Job Design (with M. Beckmann and M. Kräkel) [ECONtribute Discussion Paper No. 189/2022](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_189_2022.pdf) 
+- ICT, Hierarchy, and Job Design (with M. Beckmann and M. Kräkel) [IZA Discussion Paper No. 15491 08/2022](https://www.iza.org/publications/dp/15491/information-and-communication-technology-hierarchy-and-job-design) 
 
 Upcoming presentations:
 
