@@ -15,6 +15,4 @@ My latest working paper:
 
 Upcoming presentations:
 
-- [VfS Annual Conference 2022: Big Data in Economics](https://www.socialpolitik.de/en/jahrestagung-2022-0) Basel, CH, 11-14 September
-- [GEABA](http://www.geaba.de/) Konstanz, GER, 15-16 September
-
+- tba.
