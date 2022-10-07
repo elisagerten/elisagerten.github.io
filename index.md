@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Hi, I am a postdoctoral researcher at the [Faculty of Management, Economics and Social Sciences](https://wiso.uni-koeln.de/en/) at the University of Cologne.
+Hi, I am a postdoctoral researcher at the [Faculty of Management, Economics and Social Sciences](https://pwl.uni-koeln.de/en/team/professors/dr-elisa-gerten) at the University of Cologne.
 
 I work at the intersection of personnel and organizational economics, with a focus on applied microeconometrics and causal mechanisms. I am interested in how advanced technology affects organizations and management practices. My current work is based on German firm-level and worker-level data of the [Institute for Employment Research](https://www.iab.de/en/iab-aktuell.aspx).
 
