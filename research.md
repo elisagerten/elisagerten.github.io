@@ -5,7 +5,7 @@ layout: page
 ---
 
 ### ICT, hierarchy, and job design 
-[IZA Discussion Paper No. 15491 08/2022](https://www.iza.org/publications/dp/15491/information-and-communication-technology-hierarchy-and-job-design) *joint work with Michael Beckmann and Matthias Kräkel*
+[IZA Discussion Paper No. 15491 08/2022](https://www.iza.org/publications/dp/15491/information-and-communication-technology-hierarchy-and-job-design) *joint work with Michael Beckmann and Matthias Kräkel* (submitted)
 
 In recent decades, information and communication technology (ICT) has changed the design of jobs on a large scale. However, it remains unclear, whether these changes will lead to more centralization or more decentralization within firms. The previous literature on this debate has focused on a strict dichotomy between both possible directions. On the contrary, the theoretical and empirical analyses in this study show that equipping employees with ICT yields both more centralized  and more decentralized job-design policies. This finding is particularly pronounced for executive employees, who are granted more work autonomy but also face more control via stronger monitoring. While the theoretical framework is based on a modified principal-agent model, the empirical approach relies on parametric and semiparametric estimation models, thereby exploiting the geographical variation of instrumental variables.
 
