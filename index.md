@@ -16,3 +16,5 @@ My latest working paper:
 Upcoming presentations:
 
 - IAAEU-Workshop on Performance Pay and Employee Outcomes (December 1-2, 2022 in Trier)
+
+![Elisa Gerten](/Island.jpg)
