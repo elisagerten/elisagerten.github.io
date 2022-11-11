@@ -15,6 +15,6 @@ My latest working paper:
 
 Upcoming presentations:
 
-- IAAEU-Workshop on Performance Pay and Employee Outcomes (December 1-2, 2022 in Trier)
+- Research Day in Applied Microeconomics / UoC (December 2, 2022 in Cologne)
 
 ![Elisa Gerten](/Island.jpg)
