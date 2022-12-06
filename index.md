@@ -15,6 +15,4 @@ My latest working paper:
 
 Upcoming presentations:
 
-- Research Day in Applied Microeconomics / UoC (December 2, 2022 in Cologne)
-
 ![Elisa Gerten](/Island.jpg)
