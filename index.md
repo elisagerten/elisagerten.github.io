@@ -15,6 +15,6 @@ My latest working paper:
 
 Upcoming presentations:
 
-- tba.
+- Colloquium on Personnel Economics (COPE), Amsterdam, 23-24 March 2023
 
 ![Elisa Gerten](/Island.jpg)
