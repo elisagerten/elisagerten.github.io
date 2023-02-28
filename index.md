@@ -25,7 +25,7 @@ Upcoming presentations:
 
 Upcoming research visits:
 
-- ZEW Mannheim, April-May 2023
+- ZEW (Research Area “Digital Platforms” and “Digitalisation and Corporate Strategies”), Prof. Dr. Irene Bertschek, Mannheim, April-May 2023
 
 
 ![Elisa Gerten](/Island.jpg)
