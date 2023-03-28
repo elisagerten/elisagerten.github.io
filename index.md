@@ -19,13 +19,13 @@ My latest grant:
 
 Upcoming presentations:
 
-- [Colloquium on Personnel Economics](https://personneleconomics.eu/cope2023/index.php) (COPE), Amsterdam, 23-24 March 2023, _Technology and Performance Pay in Organizations_
-- [ORG-Seminar](https://www.isto.bwl.uni-muenchen.de/forschung/seminare/org_seminar/index.html) (LMU), Munich, 18 April 2023, _Technology, Sustainability and Management_
-- [ZEW-Seminar](https://www.zew.de/veranstaltungen-und-weiterbildung/veranstaltungen-fuer-die-wissenschaft/research-seminare), Mannheim, tba., _Gig Work and Future Employment Prospects_
+- [LMU ORG-Seminar](https://www.isto.bwl.uni-muenchen.de/forschung/seminare/org_seminar/index.html) Munich, 18 April 2023, _Technology, Sustainability and Management_
+- [ZEW-Seminar](https://www.zew.de/veranstaltungen-und-weiterbildung/veranstaltungen-fuer-die-wissenschaft/research-seminare) Mannheim, tba., _Gig Work and Future Employment Prospects_
+- [EALE](https://eale2023prague.eu/) Prague, 21-23 September 2023, _Technology and Performance Pay in Organizations_
 
 Upcoming research visits:
 
-- ZEW (Research Area “Digital Platforms” and “Digitalisation and Corporate Strategies”), Prof. Dr. Irene Bertschek, Mannheim, April-May 2023
+- ZEW Research Area _Digital Platforms_ and _Digitalisation and Corporate Strategies_, Prof. Dr. Irene Bertschek, Mannheim, April-May 2023
 
 
 ![Elisa Gerten](/Island.jpg)
