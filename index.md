@@ -19,9 +19,11 @@ My latest grant:
 
 Upcoming presentations:
 
-- [LMU ORG-Seminar](https://www.isto.bwl.uni-muenchen.de/forschung/seminare/org_seminar/index.html) Munich, 18 April 2023, _Technology, Sustainability and Management_
-- [ZEW-Seminar](https://www.zew.de/veranstaltungen-und-weiterbildung/veranstaltungen-fuer-die-wissenschaft/research-seminare) Mannheim, tba., _Gig Work and Future Employment Prospects_
-- [EALE](https://eale2023prague.eu/) Prague, 21-23 September 2023, _Technology and Performance Pay in Organizations_
+- [LMU ORG-Seminar](https://www.isto.bwl.uni-muenchen.de/forschung/seminare/org_seminar/index.html) Munich, 18 April 2023
+- [ZEW-Seminar](https://www.zew.de/veranstaltungen-und-weiterbildung/veranstaltungen-fuer-die-wissenschaft/research-seminare) Mannheim, 2 May 2023
+- [C-SEB Workshop](https://c-seb.de/events/) Cologne, 5 May 2023
+- [ECONtribute Workshop](https://econtribute.de/de/) Düsseldorf, 11-12 May 2023
+- [EALE](https://eale2023prague.eu/) Prague, 21-23 September 2023
 
 Upcoming research visits:
 
