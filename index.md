@@ -19,7 +19,6 @@ My latest grant:
 
 Upcoming presentations:
 
-- [LMU ORG-Seminar](https://www.isto.bwl.uni-muenchen.de/forschung/seminare/org_seminar/index.html) Munich, 18 April 2023
 - [ZEW-Seminar](https://www.zew.de/veranstaltungen-und-weiterbildung/veranstaltungen-fuer-die-wissenschaft/research-seminare) Mannheim, 2 May 2023
 - [C-SEB Workshop](https://c-seb.de/events/) Cologne, 5 May 2023
 - [ECONtribute Workshop](https://econtribute.de/de/) Düsseldorf, 11-12 May 2023
