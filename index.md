@@ -17,6 +17,7 @@ My latest grants:
 
 - "The Employment of Women in the Gig Economy" [C-SEB Junior Start-Up Grant](https://c-seb.de/en/funding/grants/) (2022), University of Cologne
 - "Gig Work and Future Employment Prospects: A Correspondence Study" [Cluster of Excellence ECONtribute Fund](https://econtribute.de/de/) (2023), University of Cologne
+- "Technology, Sustainability, and Management" [ECONtribute Selten Seeding Grants](https://econtribute.de/funding-opportunities/) (2023), University of Cologne
 
 Upcoming presentations:
 
