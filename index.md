@@ -21,8 +21,6 @@ My latest grants:
 
 Upcoming presentations:
 
-- [ZEW-Seminar](https://www.zew.de/veranstaltungen-und-weiterbildung/veranstaltungen-fuer-die-wissenschaft/research-seminare) Mannheim, 2 May 2023
-- [C-SEB Workshop](https://c-seb.de/events/) Cologne, 5 May 2023
 - [ECONtribute Workshop](https://econtribute.de/de/) Düsseldorf, 11-12 May 2023
 - [EALE](https://eale2023prague.eu/) Prague, 21-23 September 2023
 
