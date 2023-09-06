@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Hi, I am a postdoctoral researcher at the [Faculty of Management, Economics and Social Sciences](https://pwl.uni-koeln.de/en/team/professors/dr-elisa-gerten) and the [Center for Social and Economic Behavior](https://c-seb.de/en/) (C-SEB) at the University of Cologne, and associated member of the [ECONtribute Cluster of Excellence](https://econtribute.de/de/people/dr-elisa-gerten/).
+Hi, I am a postdoctoral researcher at the [Institute for Strategy, Technology and Organization (ISTO)](https://www.en.isto.bwl.uni-muenchen.de/index.html), Munich School of Management, Ludwig-Maximilians-Universität München (LMU).
 
 I work at the intersection of personnel and organizational economics, with a focus on applied microeconometrics and causal mechanisms. I am interested in how advanced technology affects organizations and management practices. My current work is based on German firm-level and worker-level data of the [Institute for Employment Research](https://www.iab.de/).
 
@@ -21,7 +21,6 @@ My latest grants:
 
 Upcoming presentations:
 
-- [SIOE](https://www.sioe.org/conference/2023) Frankfurt, 24-26 August 2023
 - [EALE](https://eale2023prague.eu/) Prague, 21-23 September 2023
 
 ![Elisa Gerten](/Island.jpg)
