@@ -21,6 +21,6 @@ My latest grants:
 
 Upcoming presentations:
 
-- [EALE](https://eale2023prague.eu/) Prague, 21-23 September 2023
+- tba.
 
-![Elisa Gerten](/Island.jpg)
+![Elisa Gerten](/ElisaGertenLMUc.jpg)
