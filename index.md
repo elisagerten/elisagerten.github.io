@@ -22,5 +22,7 @@ My latest grants:
 Upcoming presentations:
 
 - TIME Colloquium, Max Planck Institute for Innovation and Competition, Munich, 14.12.2023
+- Research Seminar in Applied Economics and Management, CEBRIG, Université Libre de Bruxelles, 08.02.2024
+- Academy of Management (AoM) CarCON 2024, VU Amsterdam, 18/19.04.2024
 
 ![Elisa Gerten](/ElisaGertenLMUc.jpg)
