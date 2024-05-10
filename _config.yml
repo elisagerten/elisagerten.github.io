@@ -18,11 +18,11 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {url: "/elisagerten.pdf", title: "CV"}
-  - {file: "research.md", title: "Ongoing Research"}
+  - {file: "research.md", title: "Research"}
   - {file: "publications.md", title: "Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:gerten@wiso.uni-koeln.de"}
+  - {title: Mail, icon: envelope, url: "mailto:elisa.gerten@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/elisagerten"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/GertenElisa"}
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=xRrQw60AAAAJ&hl=de&oi=ao"}
