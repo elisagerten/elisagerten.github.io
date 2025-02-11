@@ -11,4 +11,4 @@ I was a postdoctoral researcher at the Ludwig-Maximilians-Universität München 
 
 For my work, I received the [Heinz König Young Scholar Award 2022](https://www.zew.de/en/press/latest-press-releases/zew-honours-young-researcher-from-the-university-of-basel) from ZEW Mannheim and SAP SE and the [Emilie Louise Frey Award 2019](https://wwz.unibas.ch/en/faculty/awards-and-distinctions/emilie-louise-frey-preis/) from the University of Basel.
 
-![Elisa Gerten](/ElisaGertenLila.jpg)
+![Elisa Gerten](/ElisaGertenLila.JPG)
