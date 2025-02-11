@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Welcome to my website, 
+Welcome to my website.
 
 Currently, I am seeking new professional challenges. 
 
